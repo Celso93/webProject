@@ -1,0 +1,8 @@
+h1 {
+    color: red;
+    font-size: 20px;
+}
+
+img {
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(255, 0, 0)), url("https://emojipedia-us.s3.amazonaws.com/thumbs/240/apple/118/bacon_1f953.png");
+}
